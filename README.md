@@ -16,21 +16,4 @@ A simple and customizable password generator built with React. This application 
 - CSS (Tailwind CSS for styling)
 - Lucide Icons for UI elements
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/imprince26/Password-Generator.git
-
-2. Navigate to the project directory:
-   ```bash
-   cd Password-Generator
-
-3. Install the dependencies:
-   ```bash
-   npm install
-
-4. Start the development server:
-   ```bash
-   npm run dev
 
