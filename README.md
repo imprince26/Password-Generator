@@ -2,6 +2,10 @@
 
 A simple and customizable password generator built with React. This application allows users to generate secure passwords based on their selected criteria, including length and character types.
 
+## 🌐 Live Demo
+
+Check out the live version of the Recipe Generator: [PR Password Generator Live](https://password-generator-red-eight.vercel.app/)
+
 ## Features
 
 - Generate passwords with customizable length (6 to 30 characters).
